@@ -1,0 +1,9 @@
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\ConfigurationManager.deps.json
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.csprojAssemblyReference.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfo.cs
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\mvallejo\source\repos\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\ConfigurationManager.pdb

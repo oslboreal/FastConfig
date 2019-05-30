@@ -1,0 +1,6 @@
+{
+  "propUno": 2,
+  "PropDos": 2,
+  "ConfigurationFile": "SecondTestingClass",
+  "ConfigurationType": "TestingProject.SecondTestingClass, TestingProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+}

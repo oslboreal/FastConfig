@@ -1,0 +1,14 @@
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.deps.json
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.runtimeconfig.json
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.runtimeconfig.dev.json
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.dll
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.pdb
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csprojAssemblyReference.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csproj.CoreCompileInputs.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.AssemblyInfoInputs.cache
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.AssemblyInfo.cs
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csproj.CopyComplete
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.dll
+C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.pdb
