@@ -5,7 +5,7 @@ using System.Dynamic;
 using System.Reflection;
 using System.Text;
 
-namespace ConfigurationManager
+namespace FastConfigCore
 {
     public class Configuration
     {

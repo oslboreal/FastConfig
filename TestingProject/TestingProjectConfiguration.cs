@@ -1,4 +1,4 @@
-﻿using ConfigurationManager;
+﻿using FastConfig;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

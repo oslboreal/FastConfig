@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Dynamic;
-using ConfigurationManager;
+using FastConfig;
 
 namespace TestingProject
 {

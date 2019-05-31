@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConfigurationManager\ConfigurationManager.csproj" />
+    <ProjectReference Include="..\ConfigurationManager\FastConfig.csproj" />
   </ItemGroup>
 
 </Project>

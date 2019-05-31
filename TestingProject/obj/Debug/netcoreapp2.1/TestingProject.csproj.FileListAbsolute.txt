@@ -12,3 +12,17 @@ C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\net
 C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csproj.CopyComplete
 C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.dll
 C:\Users\mvallejo\source\repos\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.pdb
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.deps.json
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.runtimeconfig.json
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\TestingProject.pdb
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.AssemblyInfo.cs
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.csproj.CopyComplete
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\TestingProject\obj\Debug\netcoreapp2.1\TestingProject.pdb

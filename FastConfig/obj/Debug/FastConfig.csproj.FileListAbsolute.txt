@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\bin\Debug\FastConfig.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\bin\Debug\FastConfig.pdb
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\obj\Debug\FastConfig.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\obj\Debug\FastConfig.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\obj\Debug\FastConfig.csproj.CopyComplete
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\obj\Debug\FastConfig.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\FastConfig\obj\Debug\FastConfig.pdb

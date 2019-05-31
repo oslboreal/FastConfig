@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\FastConfigCore.deps.json
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\FastConfigCore.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\bin\Debug\netcoreapp2.1\FastConfigCore.pdb
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.AssemblyInfo.cs
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.dll
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp2.1\FastConfigCore.pdb

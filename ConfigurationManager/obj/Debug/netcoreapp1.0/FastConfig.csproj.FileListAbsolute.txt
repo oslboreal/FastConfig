@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp1.0\FastConfig.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp1.0\FastConfig.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp1.0\FastConfig.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Librerias NET\ConfigurationManager\ConfigurationManager\obj\Debug\netcoreapp1.0\FastConfig.AssemblyInfo.cs

@@ -3,7 +3,7 @@ using System;
 using System.IO;
 using System.Threading;
 
-namespace ConfigurationManager
+namespace FastConfigCore
 {
     public enum ActionType
     {
@@ -58,7 +58,7 @@ namespace ConfigurationManager
                             returnedObject = default(T);
                         break;
                     default:
-                        throw new ApplicationException("The specified ActionType does not exist.");
+                        throw new Exception("The specified ActionType does not exist.");
                 }
 
                 // Locking release.
