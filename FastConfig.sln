@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastConfigCore", "Configura
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastConfig", "FastConfig\FastConfig.csproj", "{36EEA22F-A8D2-4C54-A528-D589F6DAE243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastConfigConsoleTest", "FastConfigConsoleTest\FastConfigConsoleTest.csproj", "{72F9140D-EE2D-46FC-B73D-DD3C6ADC54A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{36EEA22F-A8D2-4C54-A528-D589F6DAE243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EEA22F-A8D2-4C54-A528-D589F6DAE243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EEA22F-A8D2-4C54-A528-D589F6DAE243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F9140D-EE2D-46FC-B73D-DD3C6ADC54A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F9140D-EE2D-46FC-B73D-DD3C6ADC54A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F9140D-EE2D-46FC-B73D-DD3C6ADC54A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F9140D-EE2D-46FC-B73D-DD3C6ADC54A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

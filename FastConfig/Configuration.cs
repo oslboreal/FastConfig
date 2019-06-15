@@ -5,12 +5,27 @@ namespace FastConfig
 {
     public class Configuration
     {
-        public string ConfigurationFile { get; set; }
+        private string configurationFilePath;
+
+        public string ConfigurationFilePath
+        {
+            get
+            {
+                return configurationFilePath;
+            }
+            set
+            {
+                if (value == null)
+                    this.configurationFilePath = this.GetType().Name;
+                else
+                    this.configurationFilePath = value;
+            }
+        }
         public Type ConfigurationType { get; set; }
 
         public Configuration()
         {
-            ConfigurationFile = this.GetType().Name;
+            ConfigurationFilePath = this.GetType().Name;
             ConfigurationType = this.GetType();
         }
 

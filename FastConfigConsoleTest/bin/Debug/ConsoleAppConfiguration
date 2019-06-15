@@ -1,0 +1,7 @@
+{
+  "ProjectName": "Console Application - FastConfig test.",
+  "ProjectAuthor": "Marcos Vallejo",
+  "ProjectVer": "1.0.0v",
+  "ConfigurationFilePath": "ConsoleAppConfiguration",
+  "ConfigurationType": "FastConfigConsoleTest.ConsoleAppConfiguration, FastConfigConsoleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
